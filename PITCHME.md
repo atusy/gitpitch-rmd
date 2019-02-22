@@ -1,5 +1,3 @@
-GitPitch ❤ Rmd
-================
 
 ### Rmd を GitPitch してみる．
 
@@ -22,4 +20,4 @@ GitPitch は GitHub などに上げた md ファイルをスライド化して�
 hist(rnorm(1e3), breaks = "Scott")
 ```
 
-![](PITCHME_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](PITCHME_files/figure-gfm/hist-1.png)<!-- -->

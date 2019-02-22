@@ -1,5 +1,4 @@
 ---
-title: "Rmd ❤ GitPitch"
 output: 
   github_document: null
   revealjs::revealjs_presentation: null
@@ -23,7 +22,7 @@ GitPitch は GitHub などに上げた md ファイルをスライド化して�
 
 ### 作図
 
-```{r}
+```{r hist}
 hist(rnorm(1e3), breaks = "Scott")
 ```
 
